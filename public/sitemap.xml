@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://kezeletaiprijevoz.hr</loc>
+    <lastmod>2025-01-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://i.postimg.cc/d31T1z1L/turisticka-agencija-hrvatska-kezele.jpg</image:loc>
+      <image:title>Turistička agencija Kezele Prijevoz - Naslovna slika</image:title>
+      <image:caption>Autobusni prijevoz i turistička agencija iz Čazme i Bjelovara</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://kezeletaiprijevoz.hr/o-nama</loc>
+    <lastmod>2025-01-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://i.postimg.cc/c1jgskQ5/turisticka-agencija-i-prijevoz-kezele.jpg</image:loc>
+      <image:title>O nama - Kezele Prijevoz i turistička agencija</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://kezeletaiprijevoz.hr/kontakt</loc>
+    <lastmod>2025-01-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://i.postimg.cc/8CmHrg1H/turisticka-agencija-kontakt.jpg</image:loc>
+      <image:title>Kontaktirajte Kezele Prijevoz</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://kezeletaiprijevoz.hr/opci-ugovor</loc>
+    <lastmod>2025-01-01</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://kezeletaiprijevoz.hr/prigovor</loc>
+    <lastmod>2025-01-01</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+  </url>
+</urlset>
