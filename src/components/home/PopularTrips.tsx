@@ -4,6 +4,15 @@ import SectionTitle from '../ui/SectionTitle';
 
 const PopularTrips: React.FC = () => {
   const trips = [
+     {
+      id: 13,
+      title: 'Primjer postavljana nove sekcije',
+      description: 'Opis postavljanja nove sekcije',
+      imageUrl: 'https://i.postimg.cc/2StDkk08/turisticka-agencija-hrvatska-kezele.jpg',
+      iconName: 'Cross',
+      width: 800,
+      height: 600
+    },
     {
       id: 12,
       title: 'Izlet u Krapinu i Trakošćan',
