@@ -41,15 +41,6 @@ const PopularTrips: React.FC = () => {
       height: 600
     },
     {
-      id: 2,
-      title: 'Plitvička Jezera',
-      description: 'Jednodnevni izlet do UNESCO-ve svjetske baštine, s vođenim obilaskom i slobodnim vremenom.',
-      imageUrl: 'https://images.pexels.com/photos/1631665/pexels-photo-1631665.jpeg?auto=compress&cs=tinysrgb&w=800',
-      iconName: 'Palmtree',
-      width: 800,
-      height: 534
-    },
-    {
       id: 3,
       title: 'Međugorje Hodočašće',
       description: 'Duhovno putovanje s molitvama, posjetima svetištima i stručnim vodičem.',
